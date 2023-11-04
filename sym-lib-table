@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SJ1-3535NG")(type "Legacy")(uri "${KIPRJMOD}/libs/SJ1-3535NG/SJ1-3535NG.lib")(options "")(descr ""))
+)
