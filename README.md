@@ -1,16 +1,18 @@
 # K_BF
 OpenHPSDR Audio I/O board, Andromeda/CPU/Hermes interface
 
-K_BF alias Kêtos
+K_BF aka Kêtos
 
-Cette carte sert d'interface entre 
+This card is an interface between 
 
-- le connecteur IDC10 de sortie des signaux "audio" (HP/Casque, microphone/PTT, CW key) de la carte Andromède
+- the IDC10 output connector of "audio" signals (HP/headphones, microphone/PTT, CW key) coming from the Andromède board
 
-- les connecteurs Jack d'entrée/sortie audio de l'ordinateur interne du SDR
+- the audio input/output jack connectors going to the embedded computer
 
-- les connecteurs Jack d'entrée/sortie de la carte SDR principale (Hermes/Angelia/Orion) au standard OpenHPSDR
+- the input/output jack connectors of the main SDR board (Hermes/Angelia/Orion) using the OpenHPSDR standard.
 
-Kêtos est le nom du monstre marin que Persée terrasse pour délivrer Andromède... 
+Ketos is the name of the sea monster that Perseus slays to deliver Andromeda... 
 
-Andromède est l'interface HIM de l'architecture OpenHPSR
+Andromeda is the high-end "human to machine interface" of the OpenHPSR architecture.
+
+![Kêtos, an openHPSDR audio switchboard](https://github.com/F6ITU/K_BF/blob/main/Documentation/K_BF.png)
